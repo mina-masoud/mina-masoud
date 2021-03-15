@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mina-masoud
-- 👀 I’m interested in Physical Oceanography, sea breeze, Coastal Trapped Waves, Gravity Currents, Deep Water Renewal
+- 👀 I’m interested in Physical Oceanography, Data Analysis, Ocean response to sea breeze, Coastal Trapped Waves, Gravity Currents, Deep Water Renewal
 - 🌱 I’m currently learning  Gravity Currents, Deep Water Renewal, Pyton
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me by email: mina.masoud30@gmail.com
